@@ -15,6 +15,7 @@ Tools Used
 
 ![Apollo Dashboard](apollo_stock_analysis.jpeg)
 
+
 Dashboard Features
 
 • Average Closing Price Analysis
